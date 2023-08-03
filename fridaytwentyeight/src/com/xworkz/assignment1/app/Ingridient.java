@@ -13,6 +13,7 @@ public class Ingridient {
 	}
 	public void printInfo()
 	{
+		
 		System.out.println("invoking printInfo in ingridients");
 		System.out.println("name is:"+name);
 		System.out.println("quantity is:"+quantity);
